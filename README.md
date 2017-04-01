@@ -11,7 +11,7 @@ You can install this package either with `npm` or with `bower`.
 ### npm
 
 ```shell
-npm install angular
+npm install angular-custom
 ```
 
 Then add a `<script>` to your `index.html`:
@@ -25,7 +25,7 @@ Or `require('angular')` from your code.
 ### bower
 
 ```shell
-bower install angular
+bower install angular-custom
 ```
 
 Then add a `<script>` to your `index.html`:
